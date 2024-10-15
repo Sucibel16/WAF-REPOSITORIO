@@ -1,12 +1,11 @@
 Este proyecto tiene como objetivo desplegar una página web estática utilizando Docker y Nginx. A través de esta práctica, aprenderás a crear un contenedor Docker que sirva una página HTML mediante Nginx, facilitando el despliegue y la administración de aplicaciones web.
-##Tecnologías Utilizadas
+## Tecnologías Utilizadas
 - **Docker**: Plataforma para desarrollar, enviar y ejecutar aplicaciones en contenedores.
 - **Nginx**: Servidor web de código abierto utilizado para servir contenido web, actuar como proxy inverso y balanceador de carga.
 ## Requisitos Previos
 - Tener [Docker](https://www.docker.com/products/docker-desktop) instalado en tu máquina.
 - Familiaridad básica con la terminal o línea de comandos.
-## Estructura del Proyecto
-## Instrucciones
+## Instrucciones para ejecutarlo 
 ### 1. Crear la Carpeta del Proyecto
 Crea una carpeta en tu escritorio llamada Prueba-Docker y crea un archivo llamado index.html con el contenido que deseas mostrar.
 ### 2. Crear el Archivo Dockerfile
