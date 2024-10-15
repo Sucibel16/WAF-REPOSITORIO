@@ -40,5 +40,16 @@ Cart.jsx: Contiene el código para el carrito de compras.
 ProductItems.jsx: Componente individual de cada producto.
 CartItem.jsx: Componente individual de item del carrito
 
+# Instalación 
+- Se clona el repositorio, usando Git Bashm se pega el enlace del repositorio luego ejecuta el comando para poder descomprimirlo
+- Se navega hasta el directorio del carrito de compras y se ejecuta npm install para obtener las dependencias.
+- Luego se ejecuta el comando npm run dev para desplegar la aplicación, este comando muestra el puerto donde se corre la aplicación.
 
- [Actividad complementaria](https://docs.google.com/document/d/18WGWs7oRHxQNWTEWRsINwR4PWW3HBue7HYOoOzEMMOU/edit?usp=sharing)
+
+# Docker
+## Para subir una imagen a docker 
+- Por si aún no se tiene instalado [Guía para instalar Docker](https://www.youtube.com/watch?v=cWuirzMOwwg).
+- Abre Docker Desktop e inicia sesión con el usuario y contraseña. 
+- Para crear una imagen puedes seguir la guia que está en la Actividad complementaria.
+
+[Actividad complementaria](https://docs.google.com/document/d/1cVdNDLdkNUepFnUE6ivzB_73K0QGyf7o31FWVPly65E/edit?usp=sharing)
