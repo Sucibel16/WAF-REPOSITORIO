@@ -26,7 +26,7 @@ Este proyecto es una aplicación web interactiva desarrollada con Vue.js que per
 
 # Principales Archivos:
 
-- App.vue: Componente raíz de la aplicación (no mostrado en el código proporcionado).
+- App.vue: Componente raíz de la aplicación.
 
 ## src/components/
 - SiteFooter.vue: Maneja el pie de página de la aplicación.
