@@ -8,7 +8,7 @@ El propósito de este proyecto es que el estudiante aplique sus conocimientos de
 El objetivo de este proyecto es que el estudiante desarrolle una solución fullstack que integre frontend (React), backend (Express) y base de datos (MySQL), todo gestionado mediante contenedores Docker, para la administración de profesores.
 
 **Guía 4 - VueWebSite**:  
-El propósito es que el estudiante aprenda a trabajar con Vue.js creando una tienda deportiva en línea con funcionalidades avanzadas de filtrado y búsqueda de productos, y estructurada en componentes modulares.
+El propósito es que el estudiante aprenda a trabajar con Vue.js creando una tienda de computadoras en línea con funcionalidades avanzadas de filtrado y búsqueda de productos, y estructurada en componentes modulares.
 
 **Guía 5 - API Rick-Morty**:  
 El objetivo de este proyecto es que el estudiante adquiera experiencia consumiendo APIs y construyendo interfaces interactivas que permiten visualizar y filtrar datos en tiempo real, aplicando Axios para la gestión de datos.
