@@ -1,5 +1,5 @@
 Este proyecto tiene como objetivo desplegar una página web estática utilizando Docker y Nginx. A través de esta práctica, aprenderás a crear un contenedor Docker que sirva una página HTML mediante Nginx, facilitando el despliegue y la administración de aplicaciones web.
-## Tecnologías Utilizadas
+##Tecnologías Utilizadas
 - **Docker**: Plataforma para desarrollar, enviar y ejecutar aplicaciones en contenedores.
 - **Nginx**: Servidor web de código abierto utilizado para servir contenido web, actuar como proxy inverso y balanceador de carga.
 ## Requisitos Previos
